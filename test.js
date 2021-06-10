@@ -1,1 +1,1 @@
-alert('123');
+location.href="fb.com"
