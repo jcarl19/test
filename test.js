@@ -1,1 +1,10 @@
-alert('123');
+$(document.body).ready(function(){
+  
+  
+  
+  
+    alert('test');
+  
+  
+  
+});
